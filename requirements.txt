@@ -4,3 +4,6 @@ numpy
 streamlit
 openai
 langchain
+fitz
+frontend
+tools

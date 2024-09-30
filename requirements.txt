@@ -3,5 +3,4 @@ faiss-cpu
 numpy
 streamlit
 openai
-langchain 
-logging
+langchain
